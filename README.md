@@ -3,7 +3,7 @@
 <br>📜 | Sobre mim</br>
 <br>Meu nome é Franciele Beatriz, atualmente estou no 5° período da faculdade de Sistemas de Informação na Univesidade de Uberaba (Uniube) e tenho como objetivo me tornar uma desenvolvedora frontend. Sou apaixonada por criar interfaces de usuário incríveis e funcionais, sempre buscando aprender e me aprimorar no desenvolvimento web.</br>
 
-<br>Desenvolvimento Web</br>
+<br>💻 |Desenvolvimento Web</br>
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black" alt="HTML 5"/>
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" alt="CSS 3"/>
@@ -13,7 +13,7 @@
     <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 </div>
 
-<br>Contatos</br>
+<br>📱 |Contatos</br>
 <div>
 <a href = "mailto:francielebeatrizcosta20@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciele-beatriz-53a2422b9/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -23,5 +23,4 @@
 <div>
 <a href="https://github.com/francieleBeatriz">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francieleBeatriz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=francieleBeatriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
