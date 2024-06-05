@@ -23,5 +23,5 @@
 <div>
 <a href="https://github.com/francieleBeatriz">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francieleBeatriz&layout=compact&langs_count=7&theme=dracula"/>
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=francieleBeatriz&show_icons=true&theme=tokyonight)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=francieleBeatriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
